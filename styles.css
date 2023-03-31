@@ -22,7 +22,7 @@ p{
     color: hsl(220, 15%, 55%);
 }
 img{
-    border-color: white;
+    border-color: #FFFFFF;
     border-radius: 16px;
     height: 280px;
     width: 280px;
@@ -32,7 +32,7 @@ img{
 .topContainer{
     height: 500px;
     width: 310px;
-    background-color: white;
+    background-color: #FFFFFF;
     margin: 11% auto 10% auto;
     border-radius: 16px;
 }
